@@ -1,0 +1,46 @@
+customer_id,customer_name,rank,product_id,product_name,category,score,supporting_customers
+C116,Barasa,1,P12,Omo 2kg,Household,0.3144262295081967,"C108, C120"
+C116,Barasa,2,P13,Jik Bleach 750ml,Household,0.29967213114754093,"C108, C120"
+C116,Barasa,3,P08,Ketepa Tea 250g,Beverages,0.18975409836065574,C109
+C120,Juma,,,,,,
+C105,Njeri,1,P11,Johnson's Baby Lotion,Baby,0.29967213114754093,C107
+C105,Njeri,2,P12,Omo 2kg,Household,0.2619262295081967,"C107, C111"
+C105,Njeri,3,P10,Pampers Size 3,Baby,0.2570081967213115,"C107, C111"
+C102,Otieno,1,P07,Royco Mchuzi Mix,Pantry,0.4765027322404371,C114
+C102,Otieno,2,P05,Kimbo 1kg,Pantry,0.335587431693989,"C118, C106"
+C102,Otieno,3,P15,Kenchic Whole Chicken,Fresh,0.18975409836065574,C106
+C114,Omondi,1,P10,Pampers Size 3,Baby,0.3795081967213115,C110
+C114,Omondi,2,P05,Kimbo 1kg,Pantry,0.3647540983606557,C118
+C113,Wambui,1,P06,Pishori Rice 5kg,Pantry,0.2530054644808743,C118
+C113,Wambui,2,P10,Pampers Size 3,Baby,0.22950819672131145,C117
+C113,Wambui,3,P08,Ketepa Tea 250g,Beverages,0.17308743169398905,"C117, C101"
+C110,Kiprop,1,P06,Pishori Rice 5kg,Pantry,0.2821721311475409,"C114, C102"
+C110,Kiprop,2,P11,Johnson's Baby Lotion,Baby,0.19467213114754098,C103
+C106,Mwangi,1,P01,Kienyeji Eggs (tray),Fresh,0.28709016393442616,"C118, C102"
+C106,Mwangi,2,P02,Brookside Milk 1L,Dairy,0.19959016393442622,C105
+C118,Kariuki,1,P15,Kenchic Whole Chicken,Fresh,0.3647540983606557,C106
+C118,Kariuki,2,P07,Royco Mchuzi Mix,Pantry,0.35983606557377046,C114
+C117,Zawadi,1,P01,Kienyeji Eggs (tray),Fresh,0.2245901639344262,C113
+C117,Zawadi,2,P02,Brookside Milk 1L,Dairy,0.2245901639344262,C113
+C117,Zawadi,3,P05,Kimbo 1kg,Pantry,0.21475409836065573,C113
+C107,Chebet,,,,,,
+C109,Fatma,1,P10,Pampers Size 3,Baby,0.3795081967213115,C117
+C109,Fatma,2,P04,Blue Band 500g,Dairy,0.30642076502732235,"C117, C101"
+C109,Fatma,3,P13,Jik Bleach 750ml,Household,0.2530054644808743,C112
+C119,Amina,1,P15,Kenchic Whole Chicken,Fresh,0.4347540983606557,C107
+C119,Amina,2,P10,Pampers Size 3,Baby,0.4028415300546448,"C107, C111, C115"
+C112,Mutua,1,P12,Omo 2kg,Household,0.3844262295081967,"C108, C120"
+C112,Mutua,2,P09,Nescafe Classic 100g,Beverages,0.36967213114754094,"C108, C120"
+C112,Mutua,3,P08,Ketepa Tea 250g,Beverages,0.24808743169398906,C109
+C115,Nekesa,1,P15,Kenchic Whole Chicken,Fresh,0.4347540983606557,C107
+C115,Nekesa,2,P02,Brookside Milk 1L,Dairy,0.4095901639344262,"C107, C111"
+C103,Achieng,1,P12,Omo 2kg,Household,0.40775956284153003,"C115, C107"
+C103,Achieng,2,P02,Brookside Milk 1L,Dairy,0.3045901639344262,C107
+C103,Achieng,3,P15,Kenchic Whole Chicken,Fresh,0.2947540983606557,C107
+C111,Akinyi,1,P15,Kenchic Whole Chicken,Fresh,0.4347540983606557,C107
+C111,Akinyi,2,P11,Johnson's Baby Lotion,Baby,0.39300546448087426,"C107, C115, C119"
+C101,Wanjiru,1,P10,Pampers Size 3,Baby,0.3795081967213115,C117
+C101,Wanjiru,2,P03,Festive Bread,Bakery,0.26775956284153,"C117, C109, C113"
+C101,Wanjiru,3,P01,Kienyeji Eggs (tray),Fresh,0.14125683060109287,C113
+C108,Hassan,,,,,,
+C104,Kamau,1,P03,Festive Bread,Bakery,0.44275956284153006,"C108, C120, C112"
